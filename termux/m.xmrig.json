@@ -1,0 +1,13 @@
+nes (12 sloc)  278 Bytes
+{
+  "name": "xmrig",
+  "version": "2.4.4",
+  "homepage": "https://github.com/xmrig/xmrig",
+  "maintainer": "@btx3",
+  "description": "Monero (XMR) CPU miner with excellent ARM64 performance",
+  "arch": "ARCH",
+  "depends": ["libuv"],
+  "files" :{
+    "xmrig": "bin/xmrig"
+  }
+}
